@@ -4,3 +4,6 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem 'jekyll-tagging'
 gem "jekyll-sitemap"
+gem "logger"
+gem "csv"
+gem "base64"
