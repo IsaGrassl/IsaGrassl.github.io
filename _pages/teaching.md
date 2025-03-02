@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /styleguide/
+permalink: /teaching/
 image: codeversum.jpg
 ---
 
