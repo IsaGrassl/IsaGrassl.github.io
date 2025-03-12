@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Importance of Outreach
+date:   2023-08-01 15:01:35 +0300
+image:  05.jpg
+tags:   Home
+---
+‚Can I attend the summer camp again next year?‘ — one girl asked me this after the first day of our computer science summer camp in August. ☀️
+
+And it perfectly captures the week’s spirit: engaged students learning to code, developing their own social media app, meeting new people and just having fun at the University of Passau. 👾🏛️🎓
+
+Although organising the camp takes a lot and there were definitely times where I asked myself: „Why am I doing this?” However, these moments are the most rewarding: empowering young people, especially girls, who realise that they can indeed do great coding and do it until nearly midnight because they really wanna fix that one bug (or is it a feature?).👩🏻‍💻
+
+With 93 students from all over Germany, 35% of them girls, this is one of the most successful computer science summer camps at our university — so far🎉
+
+Thanks to all who made this possible & supported me — great teamwork! 💜
