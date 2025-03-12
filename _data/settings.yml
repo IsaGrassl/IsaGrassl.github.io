@@ -1,27 +1,25 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: Dr. Isabella Graßl
+logo: icon.jpg # You can add own logo.
+description: Personal Webpage of Dr. Isabella Graßl
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
-
-
+  name: Dr. Isabella Graßl
+  image: isa.jpg
+  say-hello: <strong>Prof. Dr. Isabella Graßl</strong>
+  bio: I am currently a Visiting Professor at Technical University of Darmstadt, specialising in Gender in Computer Science. Previously, I worked as a Research Associate at the University of Cambridge and completed my PhD on diversity in programming at the University of Passau with summa cum laude. With academic backgrounds in both computer science and the humanities, my research takes an interdisciplinary approach. I focus on the human and social aspects of software engineering, exploring how diversity—whether in terms of gender, cultural and ethnic background, beliefs, professional experience, or disabilities—affects collaboration in software teams. At its core, my work aims to better understand how people interact in software teams and how effective collaboration can enhance code quality.I am particularly passionate about supporting young talent in computing. I advocate for creative and gender-sensitive approaches to inspire children and young people—regardless of gender or social background—to engage with computer science. 
+  
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+linkedin: https://www.linkedin.com/in/dr-isabella-graßl-266a1720a
 
+#-------------------------------
+# Google Analytics
+google-analytics: xRuhi2YAAAAJ # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -34,9 +32,7 @@ instafeed: # To enable the instafeed, use the value true. To turn off use the va
 instagram-profile: artemsheludko_ # Add instagram username
 
 
-#-------------------------------
-# Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+
 
 
 #-------------------------------
