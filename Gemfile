@@ -7,3 +7,4 @@ gem "jekyll-sitemap"
 gem "logger"
 gem "csv"
 gem "base64"
+gem 'faraday', '~> 2.7', '>= 2.7.11'
