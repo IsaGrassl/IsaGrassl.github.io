@@ -29,7 +29,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : [jekyll-include-cache] # add for minimal mistakes
+plugins             : [jekyll-include-cache, gemfile] # add for minimal mistakes
 
 # Conversion
 markdown            : kramdown
