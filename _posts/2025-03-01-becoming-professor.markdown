@@ -2,7 +2,7 @@
 layout: post
 title:  It’s Actually Prof. Dr. Isabella Graßl  
 date:   2025-03-01 15:01:35 +0300
-image:  02.jpg
+image:  professor_tu_darmstadt.JPG
 tags:   Academia
 ---
 
