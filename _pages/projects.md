@@ -55,9 +55,3 @@ The camp aims to spark an interest in computer science among young students and 
 
 ***
 
-### Images
-
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
-
-***

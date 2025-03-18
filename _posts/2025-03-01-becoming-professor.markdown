@@ -17,6 +17,3 @@ It feels so surreal. What I’ve wished for ever since I began my studies has co
 It sounds wild, doesn’t it? But the Technical University of Darmstadt made it happen.
 
 As of March, I am the first Gender-MINT visiting professor in Computer Science for two years. The first year is funded through the Professorship Programme III by the Federal Government and the States, and the second year is funded by the department itself.
-
-![]({{ site.baseurl }}/images/07.jpg)
-*Minimalism*
