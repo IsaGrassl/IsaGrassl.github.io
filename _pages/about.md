@@ -5,23 +5,18 @@ permalink: /about/
 image: header.jpg
 ---
 
-Hi, my name is Isabella Graßl.
-
-***
 
 #### Now
-#ProfessorLife 🎓 | Bridging Software Engineering, Education, Data Science, and Cultural Studies 🤖 | Advocate for Inclusive Tech Education 🦄 | Let's connect! 💜
-
-🚀 Passionate about interdisciplinary research in the human and social aspects of software engineering. My mission is to inspire and empower young minds, especially girls, from primary school onwards to embark on exciting journeys in computer science. 💻✨
-
 I am a Visiting Professor at TU Darmstadt, specialising in Gender in Computer Science. Previously, I worked as a Research Associate at the University of Cambridge and completed my PhD on diversity in programming at the University of Passau with summa cum laude.
+
 With academic backgrounds in both computer science and the humanities, my research takes an interdisciplinary approach. I focus on the human and social aspects of software engineering, exploring how diversity—whether in terms of gender, cultural and ethnic background, beliefs, professional experience, or disabilities—affects collaboration in software teams. At its core, my work aims to better understand how people interact in software teams and how effective collaboration can enhance code quality.
 I am particularly passionate about supporting young talent in computing. I advocate for creative and gender-sensitive approaches to inspire children and young people—regardless of gender or social background—to engage with computer science.
+
 If you are interested in topics such as diversity, teamwork, society, creativity, and design in computing, I also offer supervision for thesis projects.
 
 
 ## Research Experience
-- **March 2025–present**: Visiting Professor (W2 Professorship, fixed term till 2027), Technical University of Darmstadt, Germany, Department of Computer Science (link: https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_315392.de.jsp)
+- **March 2025–present**: Visiting Professor (fixed term till Feb. 2027), Technical University of Darmstadt, Germany, Department of Computer Science (link: https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_315392.de.jsp)
 
 - **Oct. 2024–Feb. 2025**: Research Associate, University of Cambridge, UK, Department of Computer Science and Technology
 - **Oct. 2020–Sept. 2024**: PhD, University of Passau, Germany  
