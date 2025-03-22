@@ -2,14 +2,14 @@
 layout: page
 title: Research
 permalink: /research/
-image: codeversum.jpg
+image: icse2024.jpg
 ---
 
 
 ## Publications
 
 ### 2025
-- [**ICSE-SEIS**](https://2025.icse-seis.org): *Emily Vorderwülbeke and Isabella Graßl*. Belonging Beyond Code: Queer Software Engineering and Humanities Student Experiences. In The 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS), 2025.
+- [**ICSE-SEIS**](https://arxiv.org/pdf/2503.04576): *Emily Vorderwülbeke and Isabella Graßl*. Belonging Beyond Code: Queer Software Engineering and Humanities Student Experiences. In The 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS), 2025.
 
 ### 2024
 - [**Dissertation**](https://opus4.kobv.de/opus4-uni-passau/frontdoor/index/index/year/2024/docId/1504): *Isabella Graßl*: Diversity in Programming Education: Effects of Topic and Group Constellation on Young Programming Novices. 2024.

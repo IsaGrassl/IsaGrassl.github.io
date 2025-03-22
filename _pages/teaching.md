@@ -2,36 +2,27 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-image: codeversum.jpg
+image: Picture-Sonic.jpg
 ---
 
 > Das Lehren ist das höchste Verstehen — Johann Wolfgang von Goethe
 
+My experience fuels my passion for inclusive education. I strive to create spaces where students, regardless of background or experience, feel heard, valued, and empowered.  
 
-My teaching philosophy is deeply influenced by my own background as a first-generation university
-student from a non-academic family. This journey was filled with challenges by navigating through
-the academic landscape without prior exposure to computer science, especially programming.
-Intimidated by the stereotypical nerdy image of programmers as well as their profound skills
-compared to mine, I initially found it difficult to see myself in this field. Through this journey, I
-have also learned the importance of active listening and empathy—skills that allow me to better
-understand and connect with others. I believe these qualities are often underemphasized in software
-engineering, yet they are crucial for fostering a supportive and inclusive learning and working
-environment. This personal experience fuels my passion for making education more accessible and
-relatable for children and students from diverse backgrounds. By incorporating these elements into
-my teaching, I strive to create a space where students regardless of their prior experience or
-background feel heard and valued.
+As a first-generation university student, I navigated the academic world without prior exposure to computer science. Intimidated by stereotypes and the advanced skills of my peers, I initially struggled to see myself in this field. Through this journey, I learned the value of active listening and empathy—qualities often overlooked in software engineering but essential for inclusive learning environments.  
+
 
 ## Teaching
 
 ### Technical University of Darmstadt
 - **2025**: Seminar in (Gender) Diversity in Software Development, *BA/MA*  
-  _Topics such as gender bias, inclusion, and diversity in the IT industry are explored._
+  _Topics such as gender bias, inclusion, and diversity in the software industry and research commmunity are explored._
   
 - **2025**: Project Computing for Social Good, *BA/MA*  
   _This project focuses on the development of software solutions for social issues._
 
 - **2025**: Project at Girl's Day, *High School* 
-  _I am responsible for the project *Generative AI: Programming Art*_
+  _I am responsible for the project *Generative Art: Be a Coding Artist*_
 
 ### University of Passau
 - **2024**: Tutor at Introduction to Software Engineering, *BA*  
@@ -59,7 +50,7 @@ background feel heard and valued.
 ## Supervised Theses
 
 ### Master Theses
-- **2025/present**: Goller, Elias: *Accessibility*
+- **2025/present**: Goller, Elias: *Voice-Controlled Scratch - An Inclusive Approach for Children with Motor Disabilities*
 - **2024**: Janardhana, Sruthi: *Social Network Analysis in Software Engineering Community*
 - **2023**: Stromtcova, Valeriia: *Detection of Malicious Bots in Russian Social Networks*
 - **2023**: Rabab, Umme: *Trends in Female Authorship of Software Engineering Community*

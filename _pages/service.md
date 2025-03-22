@@ -2,9 +2,8 @@
 layout: page
 title: Service
 permalink: /service/
+image: sommercamp1.jpg
 ---
-
-## Academic Services
 
 ### Committee Member
 - **2025**: Committee Member at International Conference on Computing Education Research (ICER)

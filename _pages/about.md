@@ -10,7 +10,6 @@ image: header.jpg
 I am a Visiting Professor at TU Darmstadt, specialising in Gender in Computer Science. Previously, I worked as a Research Associate at the University of Cambridge and completed my PhD on diversity in programming at the University of Passau with summa cum laude.
 
 With academic backgrounds in both computer science and the humanities, my research takes an interdisciplinary approach. I focus on the human and social aspects of software engineering, exploring how diversity—whether in terms of gender, cultural and ethnic background, beliefs, professional experience, or disabilities—affects collaboration in software teams. At its core, my work aims to better understand how people interact in software teams and how effective collaboration can enhance code quality.
-I am particularly passionate about supporting young talent in computing. I advocate for creative and gender-sensitive approaches to inspire children and young people—regardless of gender or social background—to engage with computer science.
 
 If you are interested in topics such as diversity, teamwork, society, creativity, and design in computing, I also offer supervision for thesis projects.
 
