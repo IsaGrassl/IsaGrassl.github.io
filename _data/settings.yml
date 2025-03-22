@@ -20,19 +20,6 @@ linkedin: https://www.linkedin.com/in/dr-isabella-graßl-266a1720a
 # Google Analytics
 google-analytics: xRuhi2YAAAAJ # Add your identifier. For example UA-99631805-1.
 
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
-
-
-#-------------------------------
-# Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
-
-
-
-
 
 #-------------------------------
 # Newsletter
