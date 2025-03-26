@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-image: icse2024-new.jpg
+image: icse2024-new.png
 ---
 
 
