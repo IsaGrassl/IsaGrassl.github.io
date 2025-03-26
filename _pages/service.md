@@ -3,6 +3,7 @@ layout: page
 title: Service
 permalink: /service/
 image: sommercamp1.jpg
+order: 5
 ---
 
 ### Committee Member

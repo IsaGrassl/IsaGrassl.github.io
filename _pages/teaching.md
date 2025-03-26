@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 image: Picture-sonic.jpg
+order: 3
 ---
 
 I pursue to create spaces where students *feel heard, valued,* and *empowered*.  

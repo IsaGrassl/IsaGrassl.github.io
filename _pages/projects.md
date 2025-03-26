@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+order: 4
 ---
 
 I am particularly passionate about supporting young talent in computing. I advocate for creative and gender-sensitive approaches to inspire children and young people—regardless of gender or social background—to engage with computer science.

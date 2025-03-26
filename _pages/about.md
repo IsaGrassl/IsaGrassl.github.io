@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image: header.jpg
+order: 1
 ---
 
 I am a [Visiting Professor](https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_315392.en.jsp) at Technical University of Darmstadt, specialising in Gender in Computer Science.
