@@ -5,9 +5,11 @@ permalink: /teaching/
 image: Picture-sonic.jpg
 ---
 
-I pursue to create spaces where students, regardless of their background, *feel heard, valued,* and *empowered*.  
+I pursue to create spaces where students *feel heard, valued,* and *empowered*.  
 
 As a first-generation university student, I navigated the academic world without prior exposure to computer science. Intimidated by stereotypes and the advanced skills of my peers, I initially struggled to see myself in this field. Through this journey, I learned the value of *active listening* and *empathy*—qualities often overlooked in software engineering but essential for inclusive learning environments.  
+
+---
 
 ### Technical University of Darmstadt
 
@@ -25,6 +27,7 @@ After this course, students can apply Design Thinking for social innovation, col
 I lead the project *Generative Art: Be a Coding Artist*, where high school students explore basic programming concepts through artistic expression using *p5.js*.  
 Creative programming can foster a more inclusive introduction to coding, as it challenges the *nerdy* stereotype of programming being overly abstract and technical. By integrating art and code, students experience creative freedom, aligning programming with their everyday interests.
 
+---
 
 ### University of Passau
 
@@ -61,6 +64,8 @@ Diversity extends beyond gender, encompassing dimensions such as sexuality, soci
 #### **2022 | Seminar: Software Engineering for Kids (BA/MA)**  
 Software engineering is often perceived as abstract, yet introducing fundamental programming concepts at an early age is key to breaking down stereotypes and entry barriers.  
 In this seminar, students explore how to make software development *accessible* for children, evaluating block-based programming environments like *Scratch*. Topics include how children interact with these tools, what they program, and how to analyse their projects and code quality.
+
+---
 
 ## Supervised Theses
 
