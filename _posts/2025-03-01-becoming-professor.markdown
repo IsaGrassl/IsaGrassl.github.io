@@ -18,4 +18,8 @@ As of March, I am the first Gender-MINT visiting professor in Computer Science f
 
 Exiting times lie ahead!
 
-[Link to TU Darmstadt Introduction](https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_315392.de.jsp)
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305203146362880000" height="399" width="504" frameborder="0" allowfullscreen="" title="Eingebetteter Beitrag"></iframe>
+
+
+
+[TU Darmstadt Introduction](https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_315392.de.jsp)
