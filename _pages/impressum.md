@@ -8,7 +8,7 @@ order: 6
 
 ## **Angaben gemäß § 5 TMG**
 
-**Prof. Dr. Isabella Graßl**  
+**Visiting Professor Dr. Isabella Graßl**  
 S2|02 B206  
 Hochschulstraße 10  
 64289 Darmstadt  
