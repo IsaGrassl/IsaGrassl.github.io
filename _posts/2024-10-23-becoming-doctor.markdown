@@ -3,7 +3,6 @@ layout: post
 title:  You can call me Dr.!
 date:   2024-10-23 15:01:35 +0300
 image:  dissertation-2.jpg
-tags:   Academia
 ---
 You can call me Dr.! 😏🎓
 

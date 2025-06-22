@@ -3,7 +3,6 @@ layout: post
 title:  Teaching Award
 date:   2023-11-17 15:01:35 +0300
 image:  teaching-award1.jpg
-tags:   Life
 ---
 
 In the spirit of beloved Goethe, who believed “Das Lehren ist das höchste Verstehen”, I’m super happy to be honored with the Best Teaching Award at the Faculty of Computer Science and Mathematics of Universität Passau! 🎓✨ 

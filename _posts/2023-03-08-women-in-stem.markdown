@@ -3,7 +3,6 @@ layout: post
 title:  Women in STEM
 date:   2023-03-08 15:01:35 +0300
 image:  sommercamp4.jpg
-tags:   Style
 ---
 Happy International Women's Day! 💜
 
