@@ -30,7 +30,7 @@
               {% assign sorted_pages = site.pages | sort: 'order' %} <!--NEW: Sort by 'order' field -->
               
               {% for page in sorted_pages %} <!--NEW: sortedpages instead of site.pages-->
-                {% unless page.name == 'tags.html' or page.name == '404.html' or page.name == 'impressum'%}
+                {% unless page.name == 'tags.html' or page.name == '404.html'%}
               {% if page.title %}
               <li class="nav__item">
                 <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
