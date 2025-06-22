@@ -30,7 +30,7 @@
               {% assign sorted_pages = site.pages | sort: 'order' %} <!--NEW: Sort by 'order' field -->
               
               {% for page in sorted_pages %} <!--NEW: sortedpages instead of site.pages-->
-                  {% unless page.url == '/impressum/' %}
+                  {% unless page.name == 'tags.html' or page.name == '404.html' or page.name == 'impressum%}
                 {% unless page.name == 'tags.html' or page.name == '404.html' or page.name == 'impressum%}
               {% if page.title %}
               <li class="nav__item">
